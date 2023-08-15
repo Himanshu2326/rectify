@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/rectify/static/css/main.1a1bc07c.css",
+    "main.js": "/rectify/static/js/main.d40ab7d9.js",
+    "static/media/About.webp": "/rectify/static/media/About.f9b3c46146dadae2752b.webp",
+    "static/media/ext1.jpg": "/rectify/static/media/ext1.45a6f0d9e9feff0f7261.jpg",
+    "static/media/db.jpg": "/rectify/static/media/db.27cf4189fe027772032c.jpg",
+    "static/media/ext3.jpg": "/rectify/static/media/ext3.c09e68fa7d5aa4603ae8.jpg",
+    "static/media/F.jpg": "/rectify/static/media/F.741012a76c6eaccde8ed.jpg",
+    "static/media/d.jpg": "/rectify/static/media/d.adafb13a6f0aaa48aa66.jpg",
+    "static/media/be.jpg": "/rectify/static/media/be.adea1c2b63b389e3b715.jpg",
+    "static/media/Home1.svg": "/rectify/static/media/Home1.f3b846e52af500a3b6536269f06a7e5a.svg",
+    "index.html": "/rectify/index.html",
+    "main.1a1bc07c.css.map": "/rectify/static/css/main.1a1bc07c.css.map",
+    "main.d40ab7d9.js.map": "/rectify/static/js/main.d40ab7d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a1bc07c.css",
+    "static/js/main.d40ab7d9.js"
+  ]
+}
