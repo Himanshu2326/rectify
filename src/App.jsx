@@ -14,7 +14,7 @@ const App = () => {
         <>
         <Navbar/>
             
-                <NavLink path="/" Component={Home} />
+                <NavLink path="/rectify" Component={Home} />
                 <NavLink path="/about" Component={About} />
                 <NavLink path="/services" Component={Services} />
                 <NavLink path="/contact" Component={Contact} />
