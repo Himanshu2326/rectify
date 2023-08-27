@@ -14,10 +14,10 @@ const App = () => {
         <>
         <Navbar/>
             
-                <NavLink to="/" Component={Home} />
-                <NavLink to="/about" Component={About} />
-                <NavLink to="/services" Component={Services} />
-                <NavLink to="/contact" Component={Contact} />
+                <NavLink path="/" Component={Home} />
+                <NavLink path="/about" Component={About} />
+                <NavLink path="/services" Component={Services} />
+                <NavLink path="/contact" Component={Contact} />
     
         </>
     )
